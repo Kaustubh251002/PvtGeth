@@ -1,7 +1,7 @@
 # PvtGeth
 
 <p align="center">
-    A Smart Drip that allows efficient and constant monitoring of various aspects of the patient.
+    A private POA blockchain created on aws VM using Geth
 </p>
 
 <hr />
